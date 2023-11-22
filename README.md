@@ -8,7 +8,9 @@ Co-located with the 2023 IEEE International Conference on Big Data (IEEE BigData
 
 
 Title of the article: 
+
   Advancing Resilience in Green Energy Systems: Comprehensive Review of AI-based Data-driven Solutions for Security and Safety
 
 Authors: 
+
   Amro Issam Hamed Attia Ramadan, Ali AGHAZADEH ARDEBILI, Antonella Longo, and Antonio Ficarella
